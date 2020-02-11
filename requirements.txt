@@ -1,0 +1,5 @@
+python-aiml
+Scrapy
+spotipy
+geocoder
+pymysql
