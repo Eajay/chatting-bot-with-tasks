@@ -38,7 +38,7 @@ $ pip3 install -r requirements.txt
 Run main.py file directly.
 
 ### video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=CI7m7vXpev4" target="_blank"><img src="http://img.youtube.com/vi/CI7m7vXpev4/0.jpg" alt="IMAGE ALT TEXT HERE" width="1000" height="600" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=CI7m7vXpev4" target="_blank"><img src="http://img.youtube.com/vi/CI7m7vXpev4/0.jpg" alt="IMAGE ALT TEXT HERE" width="360" height="260" border="10" /></a>
 
 
 License
